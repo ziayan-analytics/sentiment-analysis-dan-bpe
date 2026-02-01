@@ -1,12 +1,12 @@
-# CSE 256 PA1 — Deep Averaging Networks & Subword Models
+# Sentiment Analysis using Deep Averaging Networks + BPE
 
-This repository contains my implementation for **CSE 256 PA1 (Winter 2026)**, including:
+This project implements sentiment classification using Deep Averaging Networks (DAN) and subword tokenization via Byte Pair Encoding (BPE), comparing word-level and subword-level representations.
 
 - Bag-of-Words (BOW) baselines  
 - Deep Averaging Network (DAN) with pretrained GloVe embeddings  
 - Subword DAN using Byte Pair Encoding (BPE) with randomly initialized embeddings  
 - Experiments with different BPE vocabulary sizes  
-- Skip-gram theoretical analysis (Part 3)
+- Skip-gram theoretical analysis
 
 ---
 
